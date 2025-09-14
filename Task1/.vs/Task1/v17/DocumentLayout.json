@@ -1,0 +1,113 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "H:\\LabWorks\\Task1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{831E038D-D6BD-4AC3-AAA7-D9FAE3899079}|Lab0\\Lab0.vcxproj|H:\\LabWorks\\Task1\\Lab0\\source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{831E038D-D6BD-4AC3-AAA7-D9FAE3899079}|Lab0\\Lab0.vcxproj|solutionrelative:Lab0\\source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F7618C5-6E0B-4A1F-8EA8-2EDAD2951F03}|Lab1\\Lab1.vcxproj|H:\\LabWorks\\Task1\\Lab1\\source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7F7618C5-6E0B-4A1F-8EA8-2EDAD2951F03}|Lab1\\Lab1.vcxproj|solutionrelative:Lab1\\source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8A78F1E-7D02-4856-BB31-4D966090859A}|Lab2\\Lab2.vcxproj|H:\\LabWorks\\Task1\\Lab2\\source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B8A78F1E-7D02-4856-BB31-4D966090859A}|Lab2\\Lab2.vcxproj|solutionrelative:Lab2\\source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67F6FDC2-74A6-4769-9EA1-8FFE29AD5922}|Lab4\\Lab4.vcxproj|H:\\LabWorks\\Task1\\Lab4\\source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{67F6FDC2-74A6-4769-9EA1-8FFE29AD5922}|Lab4\\Lab4.vcxproj|solutionrelative:Lab4\\source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B5C9E66-B49D-46CF-8B4C-CC1DE72A12D0}|HomeLab\\HomeLab.vcxproj|H:\\LabWorks\\Task1\\HomeLab\\source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7B5C9E66-B49D-46CF-8B4C-CC1DE72A12D0}|HomeLab\\HomeLab.vcxproj|solutionrelative:HomeLab\\source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "source.c",
+              "DocumentMoniker": "H:\\LabWorks\\Task1\\Lab0\\source.c",
+              "RelativeDocumentMoniker": "Lab0\\source.c",
+              "ToolTip": "H:\\LabWorks\\Task1\\Lab0\\source.c",
+              "RelativeToolTip": "Lab0\\source.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-09-14T11:23:38.748Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "source.c",
+              "DocumentMoniker": "H:\\LabWorks\\Task1\\Lab1\\source.c",
+              "RelativeDocumentMoniker": "Lab1\\source.c",
+              "ToolTip": "H:\\LabWorks\\Task1\\Lab1\\source.c",
+              "RelativeToolTip": "Lab1\\source.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-09-14T11:23:24.39Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "source.c",
+              "DocumentMoniker": "H:\\LabWorks\\Task1\\Lab2\\source.c",
+              "RelativeDocumentMoniker": "Lab2\\source.c",
+              "ToolTip": "H:\\LabWorks\\Task1\\Lab2\\source.c",
+              "RelativeToolTip": "Lab2\\source.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-09-14T11:23:20.593Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "source.c",
+              "DocumentMoniker": "H:\\LabWorks\\Task1\\Lab4\\source.c",
+              "RelativeDocumentMoniker": "Lab4\\source.c",
+              "ToolTip": "H:\\LabWorks\\Task1\\Lab4\\source.c",
+              "RelativeToolTip": "Lab4\\source.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-09-14T11:22:48.209Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "source.c",
+              "DocumentMoniker": "H:\\LabWorks\\Task1\\HomeLab\\source.c",
+              "RelativeDocumentMoniker": "HomeLab\\source.c",
+              "ToolTip": "H:\\LabWorks\\Task1\\HomeLab\\source.c",
+              "RelativeToolTip": "HomeLab\\source.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-09-14T11:22:42.375Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
